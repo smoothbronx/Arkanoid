@@ -13,6 +13,7 @@ if they are in the list, you can run.
 if these libraries are not in the list, you can install them directly from the terminal with the following command:
 
 pip3 install [library name]
+
 ------------------------------------
 **have a nice game, your Bronx**
 ------------------------------------
